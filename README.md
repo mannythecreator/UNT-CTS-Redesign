@@ -1,4 +1,4 @@
-# UNT-CTS-Redesign
+# UNT-DSA-CTS-Redesign
 
 <p>Completed in August 2023</p>
 
