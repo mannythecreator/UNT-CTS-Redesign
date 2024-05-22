@@ -1,4 +1,4 @@
-# UNT-DSA-CTS-Redesign
+# UNT DSA Counseling and Testing Center Website Redesign
 
 <p>Completed in August 2023</p>
 
@@ -10,7 +10,7 @@
   <li>Designed and implanted mobile layout to ensure a comfortable experience on smaller screens</li>
 </ul>
 
-![CTS-Demo](https://github.com/mannythecreator/UNT-CTS-Redesign/assets/60325078/e46405e6-727c-4660-8f4e-09d402d7a975)
+<img src="https://github.com/mannythecreator/UNT-CTS-Redesign/assets/60325078/e46405e6-727c-4660-8f4e-09d402d7a975" width="70%">
 
 ![Screenshot 2023-08-24 132815](https://github.com/mannythecreator/UNT-CTS-Redesign/assets/60325078/151abecc-439e-4f97-9f4e-10c35fbd00ed)
 
